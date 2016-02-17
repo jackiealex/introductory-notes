@@ -1,4 +1,5 @@
-###只有在生成器中才能使用yield表达式
+###yield 表达式
+###——只有在生成器中才能使用yield表达式
 ```javascript
 function *gen() {
 	yield 1;
