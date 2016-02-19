@@ -5,11 +5,11 @@
    nvm use 5.5
 ```
 3. 安装 preset s2015
-   +猛戳 https://babeljs.io/docs/setup/#babel_cli 
++ 猛戳 https://babeljs.io/docs/setup/#babel_cli 
 ```shell 
    npm install babel-preset-es2015
 ```
-4.在project／ 根目录下创建 .babelrc 文件，内容如下:
+4. 在project／ 根目录下创建 .babelrc 文件，内容如下:
 ```javascript
 {
 	 "presets": ["es2015"]
